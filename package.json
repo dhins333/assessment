@@ -1,0 +1,25 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "Frontend Assessment",
+  "scripts": {
+    "dev": "parcel public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhins333/assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhins333/assessment/issues"
+  },
+  "homepage": "https://github.com/dhins333/assessment#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
